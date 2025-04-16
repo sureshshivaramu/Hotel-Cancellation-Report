@@ -1,6 +1,9 @@
 # Hotel Cancellation Analysis using Excel
 
-This project analyzes hotel booking cancellation data using Microsoft Excel. It includes an interactive dashboard created with PivotTables and slicers to visualize key trends and patterns.
+This project presents an interactive dashboard built in Microsoft Excel to analyze hotel booking cancellations. It helps explore cancellation patterns, customer behaviors, and booking trends.
+
+## 📁 File
+- **My First Project.xlsx** – contains all PivotTables, slicers, and visuals built on the dataset.
 
 ## 🔧 Tools Used
 - Microsoft Excel
@@ -8,35 +11,23 @@ This project analyzes hotel booking cancellation data using Microsoft Excel. It 
 - Slicers
 - Conditional Formatting
 
-## 📊 Dashboard Insights
-The dashboard helps explore:
-- Cancellation rates by hotel type (City vs. Resort)
-- Booking lead time and its relation to cancellations
-- Customer types and their likelihood of cancellation
-- Country-wise distribution of bookings and cancellations
-- ADR (Average Daily Rate) trends
+## 📊 Key Insights
+- **Higher cancellation rate** observed in city hotels compared to resort hotels.
+- **Longer lead times** often resulted in a higher chance of cancellations.
+- **Repeated guests** had a lower cancellation rate compared to first-time customers.
+- **Country-wise bookings** show Portugal and other European countries had the most cancellations.
 
-## 📁 Dataset
-The dataset contains thousands of hotel booking records with features like:
-- Booking dates
-- Customer type
-- Lead time
-- Hotel type
-- Cancellation status
-- Market segment
-- and more...
+## 🎯 Project Goal
+To understand which factors influence hotel booking cancellations and provide actionable insights for hotel management to reduce potential revenue loss.
 
-*(Dataset is part of the publicly available Hotel Booking Demand dataset from Kaggle)*
+## 🧠 Skills Demonstrated
+- Data cleaning and transformation in Excel
+- Building interactive dashboards using slicers
+- Deriving actionable insights from large datasets
 
-## 🎯 Goal
-To understand what factors contribute to booking cancellations, enabling hotels to take proactive actions to reduce revenue loss.
-
-## 📌 What I Learned
-- Creating interactive dashboards using Excel
-- Leveraging slicers to filter data dynamically
-- Making business decisions based on data visualization
+## 👤 Developed by
+**Suresh Shivaramu**
 
 ---
 
-🚀 Feel free to explore the Excel file and interact with the slicers to dive deeper into the insights.
-
+💡 *This project is a part of my learning journey in data analytics. Feedback is welcome!*
